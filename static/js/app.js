@@ -1,0 +1,1 @@
+console.log('Flask Tailwind Auth App Loaded');
